@@ -3,6 +3,15 @@ using System;
 
 namespace ConsoleApp_EntityFramework_CF
 {
+    // Packages To Add
+    // EntityFrameworkCore
+    // EntityFrameworkCore.Tools
+    // EntityFrameworkCore.SqlServer
+
+    // Commands to execute in Package Manager Console
+    // Add-Migration Initial
+    // Update-Database
+
     class Program
     {
         static void Main(string[] args)
